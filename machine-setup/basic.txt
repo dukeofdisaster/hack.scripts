@@ -2,3 +2,6 @@
 
 Consider this alternative to basic tmux conf: https://github.com/gpakosz/.tmux
 
+- In terminal change hot key  for tab switching to CTRL-LEFT/RIGHT
+
+- Change screenshot of area hot key to CTRL-SHIFT-A
