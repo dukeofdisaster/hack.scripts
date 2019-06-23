@@ -1,4 +1,6 @@
 #!/bin/bash
+# v0.1
+# - uses SYN scan instead of the default
 echo "Enter IP to scan"
 read toscan
 echo "Enter interface to scan on"
