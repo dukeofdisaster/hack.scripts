@@ -1,4 +1,5 @@
 #!/bin/bash
+# NOTE: This scan is noisy; try nmap -sS alone if you're getting poor results
 echo "Enter IP to scan"
 read toscan
 echo "Enter interface to scan on"
