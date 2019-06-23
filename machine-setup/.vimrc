@@ -1,0 +1,9 @@
+set tabstop=2
+set expandtab
+syntax on
+filetype on
+set nu
+set ruler
+set mouse=a
+set listchars=tab:\|\
+set list
