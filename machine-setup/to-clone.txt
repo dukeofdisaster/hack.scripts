@@ -1,0 +1,4 @@
+# should clone the following repositories
+#
+# for compiling on target
+git clone https://github.com/nmap/nmap.git
